@@ -1702,10 +1702,10 @@ textarea.form-input::-webkit-resizer { display: none; }
     position: absolute;
     bottom: auto;
     top: 0;
-    left: 0;
-    right: auto;
+    left: auto;
+    right: 0;
     width: max-content;
-    border-radius: 20px 0;
+    border-radius: 0 20px;
     padding: 0 20px;
     box-shadow: none;
   }
