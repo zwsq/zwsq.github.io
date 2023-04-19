@@ -2,9 +2,9 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Abolfazl Bakhtiari
+Abolfazl Bakhtiari
+Software Developer
 
 Show Contacts
 
