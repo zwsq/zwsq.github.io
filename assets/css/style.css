@@ -1835,7 +1835,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .sidebar-info { flex-direction: column; }
 
-  .avatar-box img { width: 150px; }
+  .avatar-box img { width: 150px; border-radius: 15px;}
 
   .info-content .name {
     white-space: nowrap;
